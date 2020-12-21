@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RickAndMortyApi</string>
+    <string name="icono">icon</string>
+    <string name="characters">PERSONAJES</string>
+    <string name="places">lugares</string>
+    <string name="episodes">episodios</string>
+    <string name="favorites">favoritos</string>
+    <string name="empty_list">no se encontraron resultados</string>
+    <string name="string_icon_desc">icon</string>
+    <string name="text_name">Nombre: %1$s</string>
+    <string name="text_status">Estado: %1$s</string>
+    <string name="text_species">Especies: %1$s</string>
+    <string name="text_gender">Genero: %1$s</string>
+    <string name="text_origin">Origen: %1$s</string>
+    <string name="image">This is principal image</string>
+
+    <string name="text_species_title">Especie</string>
+    <string name="button_favorites">Favorite save</string>
+
+</resources>
